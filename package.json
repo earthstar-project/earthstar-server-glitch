@@ -1,0 +1,15 @@
+{
+  "name": "glitch-replica-server",
+  "version": "1.0.0",
+  "description": "An Earthstar replica server, ready for Glitch.",
+  "main": "index.js",
+  "author": "Sam Gwilym",
+  "engines": { "node": "16.x" },
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "license": "LGPL-3.0-only",
+  "dependencies": {
+    "@earthstar-project/replica-server": "^3.0.0-beta.4"
+  }
+}
