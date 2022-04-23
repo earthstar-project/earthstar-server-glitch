@@ -10,6 +10,6 @@
   },
   "license": "LGPL-3.0-only",
   "dependencies": {
-    "@earthstar-project/replica-server": "^3.0.0-beta.4"
+    "@earthstar-project/replica-server": "^3.0.0-beta.5"
   }
 }
